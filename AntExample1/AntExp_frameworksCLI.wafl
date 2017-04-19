@@ -1,0 +1,13 @@
+<wafl xmlns="http://www.ibm.com/WAFLSchema">
+  <global-bean-decls>
+  </global-bean-decls>
+  <synthetic-methods>
+  </synthetic-methods>
+  <entrypoints>
+    <entrypoint sig="AntExp.jsp.userSuccess_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/jsp/userSuccess.jsp</url>
+    </entrypoint>
+  </entrypoints>
+  <call-replacements>
+  </call-replacements>
+</wafl>

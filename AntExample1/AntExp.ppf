@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project default_configuration_name="Configuration 1" fallback_default_config_name="Configuration 1" file_encoding="ISO-8859-1" jsp_compiler_info_name="Tomcat 7" jsp_compiler_type="7" ltd_name="java" name="AntExp" version="9.0.3.5" web_context_root_path=".\WebContent\WEB-INF">
+	<Configuration jdk_name="IBM JDK 1.8" name="Configuration 1"/>
+	<Source exclude="false" path=".\WebContent\WEB-INF" web="true"/>
+	<Properties>
+		<Property name="clean" value="true"/>
+		<Property name="source_staging" value="true"/>
+		<Property name="correct_packages" value="true"/>
+	</Properties>
+	<ProjectScanSettings/>
+</Project>
